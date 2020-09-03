@@ -1,0 +1,4 @@
+enum Confirmation{
+  Cancel,
+  Yes
+}
